@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hex_filemerge", "hex_filemerge\hex_filemerge.vcproj", "{D2F9BC04-A3EC-4D83-B5B7-EF2066190E84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2F9BC04-A3EC-4D83-B5B7-EF2066190E84}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D2F9BC04-A3EC-4D83-B5B7-EF2066190E84}.Debug|Win32.Build.0 = Debug|Win32
+		{D2F9BC04-A3EC-4D83-B5B7-EF2066190E84}.Release|Win32.ActiveCfg = Release|Win32
+		{D2F9BC04-A3EC-4D83-B5B7-EF2066190E84}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

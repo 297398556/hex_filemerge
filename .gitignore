@@ -1,0 +1,63 @@
+# VS Code
+/.vscode
+
+# Visual Studio files
+*.suo
+*.user
+*.ncb
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.log
+*.vs
+*.vsp
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.idb
+
+# Directories
+Debug/
+Release/
+x64/
+.vs/
+[Bb]in/
+[Oo]bj/
+ipch/
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+
+# Executables
+*.exe
+*.dll
+*.out
+*.app
+
+# Project files that should be excluded
+hex_filemerge.sdf
