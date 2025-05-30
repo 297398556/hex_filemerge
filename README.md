@@ -9,3 +9,8 @@ The merge operation performs as below:
 
 
 Only supports single HEX file input, and the output is another HEX file.
+
+这是一个HEX文件合并程序，将单个文件中的线性扩展地址段从0x8000段合并至0xA000段，
+段内的低地址数据记录合并，并遵循升序排列。
+
+仅支持单个文件的输入和输出。
