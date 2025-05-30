@@ -1,4 +1,4 @@
-# VS Code
+﻿# VS Code
 /.vscode
 
 # Visual Studio files
@@ -61,3 +61,17 @@ ipch/
 
 # Project files that should be excluded
 hex_filemerge.sdf
+*.sdf
+*.opensdf
+*.opendb
+
+# Example and backup files
+*.hex
+*_fixed.cpp
+*_fixed.h
+*_backup.*
+*_bak.*
+
+# HexMergeUI specific files
+/HexMergeUI/Debug/
+/HexMergeUI/Release/
